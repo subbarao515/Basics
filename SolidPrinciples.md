@@ -1,7 +1,11 @@
-# SOLID stands
+# SOLID stands for 
 
-S - Single-responsiblity Principle
-O - Open-closed Principle
-L - Liskov Substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principle
+1.**S** - Single-responsiblity Principle
+
+2.**O** - Open-closed Principle
+
+3.**L** - Liskov Substitution Principle
+
+4.**I** - Interface Segregation Principle
+
+5.**D** - Dependency Inversion Principle
