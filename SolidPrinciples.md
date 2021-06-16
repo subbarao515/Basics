@@ -13,5 +13,7 @@
 5.**D** - Dependency Inversion Principle
 
 ## References
- [Link-1](https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/)
+ [Link-1](https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example)
+ 
+ [Link-2](https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/)
 
