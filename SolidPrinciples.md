@@ -5,6 +5,8 @@
     A class should have one and only one reason to change, meaning that a class should have only one job
    
 2.**O** - Open-closed Principle
+ 
+    A software module/class is open for extension and closed for modification
 
 3.**L** - Liskov Substitution Principle
 
