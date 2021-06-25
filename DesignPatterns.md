@@ -9,3 +9,4 @@ Design Pattern provides low-level solutions related to the implementation, of co
 
 3.Behavioral Patterns
 
+[Link1](https://www.tutorialsteacher.com/articles/difference-between-design-principle-and-design-pattern)
