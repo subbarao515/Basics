@@ -10,6 +10,7 @@ Design Pattern provides low-level solutions related to the implementation, of co
     [1.Singleton](https://csharp-video-tutorials.blogspot.com/2017/05/singleton-design-pattern.html)
       Concurrent access to the resource is well managed by singleton design pattern.
     2.Builder
+      Separate the construction of a complex object from its representation
     3.Prototype
     4.Abstract Factory
     5.Factory Method
