@@ -7,7 +7,8 @@ Design Pattern provides low-level solutions related to the implementation, of co
 
   Creational design pattern gives the programmer more flexibility in deciding object creation and initialization
    
-    1.Singleton
+    [1.Singleton](https://csharp-video-tutorials.blogspot.com/2017/05/singleton-design-pattern.html)
+      Concurrent access to the resource is well managed by singleton design pattern.
     2.Builder
     3.Prototype
     4.Abstract Factory
