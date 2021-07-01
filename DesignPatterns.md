@@ -13,6 +13,8 @@ Design Pattern provides low-level solutions related to the implementation, of co
       Separate the construction of a complex object from its representation
     3.Prototype
     4.Abstract Factory
+      The Abstract Factory Design Pattern provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes
+      Abstract Factory is a super factory that creates other factories
     5.Factory Method
     
 2.Structural Patterns
