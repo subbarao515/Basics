@@ -5,7 +5,10 @@
 -docker Stop contianername or ID  To stop the container\
 -docker rm   image-name  Remove container\
 -docker images \
--docker rmi 
+-docker rmi \
+-grep -i FROM /root/webapp-color/Dockerfile \
+-docker build \
+-docker run -p 8282:8080    \
 
 
 
