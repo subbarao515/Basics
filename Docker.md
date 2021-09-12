@@ -7,8 +7,10 @@
 -docker images \
 -docker rmi \
 -grep -i FROM /root/webapp-color/Dockerfile \
--docker build \
+-docker build \ to build image
 -docker run -p 8282:8080    \
+-docker volume  (Volume and bind mounts)
+-
 
 
 
