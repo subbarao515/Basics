@@ -15,4 +15,6 @@
 ## GitHub
 [Developer useful github](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
 
+## AWS
+[EKSLabs](https://www.eksworkshop.com/beginner/)
 
