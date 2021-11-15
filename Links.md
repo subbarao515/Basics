@@ -21,3 +21,6 @@
 ## Coding practice 
 [https://takeuforward.org/](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
+## Architecture Diagrams
+[Diagram](https://www.alibabacloud.com/blog/how-to-create-an-effective-technical-architectural-diagram_596100)
+
