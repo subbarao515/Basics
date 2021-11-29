@@ -23,8 +23,10 @@
 ## Coding practice 
 [https://takeuforward.org/](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
-## Architecture Diagrams
+## Architecture
 [Diagram](https://www.alibabacloud.com/blog/how-to-create-an-effective-technical-architectural-diagram_596100)
 
 [code 2.0](https://static.architectis.je/gotocph2021-diagrams-as-code-2.pdf)
+
+[ArtofsystemsEngineering](https://sdincose.org/wp-content/uploads/2017/10/TheArtOfSystemsEngineering_inaugural.pdf)
 
