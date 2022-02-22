@@ -34,3 +34,6 @@
 
 [ArtofsystemsEngineering](https://sdincose.org/wp-content/uploads/2017/10/TheArtOfSystemsEngineering_inaugural.pdf)
 
+## SQL
+[SQL Masterclass Free GitHub Course]https://github.com/DataWithDanny/sql-masterclass#course-content
+
