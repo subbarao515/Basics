@@ -37,3 +37,5 @@
 ## SQL
 [SQL Masterclass Free GitHub Course]https://github.com/DataWithDanny/sql-masterclass#course-content
 
+## Other
+[Products management]https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management
