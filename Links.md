@@ -21,6 +21,7 @@
 
 ## AWS
 [EKSLabs](https://www.eksworkshop.com/beginner/)
+[AWS template](https://asecure.cloud/)
 
 ## Coding practice 
 [https://takeuforward.org/](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
