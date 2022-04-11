@@ -15,6 +15,7 @@
 
 ## DevOps
 [Devops at once place](https://github.com/bregman-arie/devops-exercises)
+
 [90 days devops learning](https://github.com/MichaelCade/90DaysOfDevOps)
 
 ## GitHub
