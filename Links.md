@@ -15,6 +15,7 @@
 
 ## DevOps
 [Devops at once place](https://github.com/bregman-arie/devops-exercises)
+[90 days devops learning](https://github.com/MichaelCade/90DaysOfDevOps)
 
 ## GitHub
 [Developer useful github](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
