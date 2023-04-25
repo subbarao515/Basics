@@ -1,1 +1,1 @@
-# It's my refeernce for basic concepts
+# It's my reference for basic concepts
