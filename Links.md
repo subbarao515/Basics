@@ -18,6 +18,8 @@
 
 [90 days devops learning](https://github.com/MichaelCade/90DaysOfDevOps)
 
+[Devops path](https://blog.coderco.io/p/the-ultimate-pathway-to-devops-revamped)
+
 ## GitHub
 [Developer useful github](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
 
