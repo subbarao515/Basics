@@ -41,8 +41,12 @@
 
 [Enterprise integration patterns](https://www.enterpriseintegrationpatterns.com/toc.html)
 
+
+
 ## SQL
 [SQL Masterclass Free GitHub Course](https://github.com/DataWithDanny/sql-masterclass#course-content)
+## System design
+[system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## Other
 [Products management](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management)
