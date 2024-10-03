@@ -13,4 +13,6 @@
   These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil
  
  
- 
+
+ ![image](https://github.com/user-attachments/assets/5168c7e3-7ca5-4f9a-9088-649991d9f3c0)
+
