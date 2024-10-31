@@ -3,6 +3,28 @@
 Docker have multiple layers.
 
 Writable layers
+
+# Docker Basic Commands
+docker  -version<br/>
+docker login<br/>
+docker search<br/>
+docker pull<br/>
+docker inspect<br/>
+docker Images<br/>
+
+docker create<br/>
+docker start<br/>
+docker stop<br/>
+
+docker run<br/>
+docker ps<br/>
+docker ps -a<br/>
+docker kill<br/>
+docker exec<br/>
+
+docker rm<br/>
+docker rmi<br/>
+
 # Docker Commands
 -docker run  '<imagename>'  Run the container\
 -docker ps      List of containers\
