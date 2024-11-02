@@ -35,4 +35,7 @@ docker rmi<br/>
 ***Host*** Containter shares the network stack of the docker host<br/>
 ***None*** :Isolated contianer fro otehr Containers <br/>
 
+# Docker Volumes
+Docker volumes are file systems that exist outside the lifecycle of a container<br/>
+
 
