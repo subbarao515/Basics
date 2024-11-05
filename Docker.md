@@ -38,4 +38,32 @@ docker rmi<br/>
 # Docker Volumes
 Docker volumes are file systems that exist outside the lifecycle of a container<br/>
 
+# Customer Docker example.
+I am used Visual studio code with docker extension for this example<br/>
+
+Example 1<b1/>
+```
+FROM ubuntu:24.10
+LABEL maintainer="mymail@gmail.com"
+
+RUN apt-get update && apt-get -y install apache2
+EXPOSE 80
+
+ENTRYPOINT [ "/usr/sbin/apachectl" ]
+CMD ["-D","FOREGROUND"]
+```
+Example 2<b1/>
+```
+FROM ubuntu:24.10
+LABEL maintainer="mymail@gmail.com"
+
+RUN apt-get update && apt-get -y install apache2
+EXPOSE 80
+
+ENTRYPOINT [ "/usr/sbin/apachectl" ]
+CMD ["-D","FOREGROUND"]
+COPY index.html /var/www/html/index.html
+VOLUME /var/www/html
+```
+
 
