@@ -5,26 +5,27 @@ Docker have multiple layers.
 Writable layers
 
 # Docker Basic Commands
-docker  -version<br/>
-docker login<br/>
-docker search<br/>
-docker pull<br/>
-docker inspect<br/>
-docker Images<br/>
+```
+docker  -version
+docker login
+docker search
+docker pull
+docker inspect
+docker Images
 
-docker create<br/>
-docker start<br/>
-docker stop<br/>
+docker create
+docker start
+docker stop
 
-docker run<br/>
-docker ps<br/>
-docker ps -a<br/>
-docker kill<br/>
-docker exec<br/>
+docker run
+docker ps
+docker ps -a
+docker kill
+docker exec
 
-docker rm<br/>
-docker rmi<br/>
-
+docker rm
+docker rmi
+```
 **Steps for run application in Docker**
 1. Application code and dependencies
 2. The docker file is a bundle of instruction
@@ -66,4 +67,9 @@ COPY index.html /var/www/html/index.html
 VOLUME /var/www/html
 ```
 
+# Multi Container App
+```
+docker run -dit -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=password -e PWD=/ -v mongodb-data:/data/db --name mern_library_nginx_mongodb_1 --net library-mern-api mongo
 
+docker run -dit -p 8081:8081 -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin -e ME_CONFIG_MONGODB_ADMINPASSWORD=password --net  library-mern-api --name mern_library_nginx_mongo-express_1 -e ME_CONFIG_MONGODB_SERVER=mern_library_nginx_mongodb_1 -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin -e ME_CONFIG_BASICAUTH_PASSWORD=admin123456 mongo-express
+```
