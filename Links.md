@@ -10,7 +10,7 @@
 [Coding-Interview](https://techinterviewhandbook.org/best-practice-questions/)
 
 ## DSA
-[DSA youtube](https://www.youtube.com/@itsdineshvaryani/videos)
+[DSA youtube](https://www.youtube.com/@itsdineshvaryani/videos](https://www.youtube.com/watch?v=6iCHf7OZn6c)
 
 #juval lowy
 
