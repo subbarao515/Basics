@@ -9,6 +9,9 @@
 
 [Coding-Interview](https://techinterviewhandbook.org/best-practice-questions/)
 
+## DSA
+[DSA youtube](https://www.youtube.com/@itsdineshvaryani/videos)
+
 #juval lowy
 
 [Aspnet core learning](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
