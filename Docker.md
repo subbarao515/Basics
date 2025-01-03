@@ -1,4 +1,4 @@
-**Docker** is image is read-only template that contains a set of instructions for creating a set of instructions for creating a container that can run on the Docker platform.
+**Docker** is image is read-only template that contains a set of instructions for creating a container that can run on the Docker platform.
 
 Docker have multiple layers.
 
