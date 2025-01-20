@@ -73,3 +73,5 @@ docker run -dit -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INIT
 
 docker run -dit -p 8081:8081 -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin -e ME_CONFIG_MONGODB_ADMINPASSWORD=password --net  library-mern-api --name mern_library_nginx_mongo-express_1 -e ME_CONFIG_MONGODB_SERVER=mern_library_nginx_mongodb_1 -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin -e ME_CONFIG_BASICAUTH_PASSWORD=admin123456 mongo-express
 ```
+# Docker compose
+Define and run multi-container applications with Docker.
