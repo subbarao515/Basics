@@ -5,6 +5,6 @@
 3.Security testing<br/>
 4.Infrastructure security<br/>
 5.Compliance and regulations<br/>
-6.Incident response</<br/>
+6.Incident response <br/>
 
 More details [link](https://github.com/devsecopsguides/devsecopsguides.github.io)
