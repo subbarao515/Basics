@@ -7,6 +7,13 @@ Kubernetes, often abbreviated as K8s, is an open-source container orchestration 
 * Declarative Configuration
 * Service Discovery and Load balancing
   
+**Master Node components**
+* API server -
+* Scheduler -
+* Controller Manager -
+* etcd Database -
+
+  
 **Pods** are the basic building blocks of any application running in Kubernetes
 A Pod consists of one or more containers and a set of resources shared by those containers.
 
