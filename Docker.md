@@ -75,3 +75,21 @@ docker run -dit -p 8081:8081 -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin -e ME_CONF
 ```
 # Docker compose
 Define and run multi-container applications with Docker.
+
+# Docker Swarm
+Docker Swarm is a container orchestration tool that enables the management, deployment, and scaling of Docker containers across a cluster of machines.Services and Tasks are part of Docker Swarm 
+
+**Features**
+* Centralized access
+* High Security
+* Autoload balancing
+* High Scalability
+* Roll-back a task
+
+**Services**
+* Replicated-Specify the number of identical tasks you want to run 
+* Global-service that runs one task on every node
+
+**Task**
+ * Task is the atomic unit of scheduling within a swarm
+  
