@@ -1,3 +1,12 @@
+# What is Kubernetes
+Kubernetes, often abbreviated as K8s, is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications
+**Features**
+* Container management
+* Automated Scaling
+* Self-Healing
+* Declarative Configuration
+* Service Discovery and Load balancing
+  
 **Pods** are the basic building blocks of any application running in Kubernetes
 A Pod consists of one or more containers and a set of resources shared by those containers.
 
