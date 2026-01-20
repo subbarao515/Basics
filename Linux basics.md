@@ -1,6 +1,7 @@
 ## Linux Command Line Interface (CLI) commands 
 
-* **Basic Navigation**: pwd, ls, cd, mkdir, rmdir.
+* **Basic Navigation**: pwd, ls,  mkdir, rmdir.
+   * pwd  Represent current working directory
 
 * **File & Directory Operations**: touch, cp, mv, rm, cat, less, more, head, tail, find, grep.
 
