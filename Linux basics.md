@@ -26,8 +26,8 @@ In Linux, the phrase "everything is a file" reflects the idea that every object.
 Linux package management tools used across various Linux distributions
 
 **Types of Package**
- * DPKG
- * APT
+ * DPKG (Debian Package Manager)
+ * APT (Advanced Package Tool) 
  * APT-GET
  * RPM (Red Hat Package Manager)
  * YUM (Yellowdog Updater Modified)
@@ -44,4 +44,14 @@ Linux package management tools used across various Linux distributions
    * To remove a package: **yum remove packagename**
    * To upgrade an existing package:**yum update package**
    * To List the packages :**yum repolist**
-     
+
+**DPKG command**
+   * To install a package : **dpkg  -i  packagename**
+   * To remove a package: **dpkg -r packagename**
+   * To List the packages : **dpkg -l**
+
+**APT command**
+   * To install a package : **apt install packagename**
+   * To remove a package: **apt remove packagename**
+   * To List the package : **apt search packagename**
+   * To upgarde the packaes :**apt update packagename**
