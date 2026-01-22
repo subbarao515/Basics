@@ -21,4 +21,15 @@ In Linux, the phrase "everything is a file" reflects the idea that every object.
             *  Symbolic Links
        *  Sockets(s)
        *  Named Pipes(p)
+         
+# Package Management 
+Linux package management tools used across various Linux distributions
+
+Types of Package
+ * DPKG
+ * APT
+ * APT-GET
+ * RPM
+ * YUM
+ * DNF
     
