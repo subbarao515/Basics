@@ -33,25 +33,38 @@ Linux package management tools used across various Linux distributions
  * YUM (Yellowdog Updater Modified)
  * DNF
 
-**RPM command**
+**RPM commands**
    * To install a package : **rpm -ivh package.rpm**
    * To uninstall a package: **rpm -e package**
    * To upgrade an existing package:**rpm -Uvh package.rpm**
    * To query the RPM packages :**rpm -q package**
   
-**YUM command**
+**YUM commands**
    * To install a package : **yum install  package**
    * To remove a package: **yum remove packagename**
    * To upgrade an existing package:**yum update package**
    * To List the packages :**yum repolist**
 
-**DPKG command**
+**DPKG commands**
    * To install a package : **dpkg  -i  packagename**
    * To remove a package: **dpkg -r packagename**
    * To List the packages : **dpkg -l**
 
-**APT command**
+**APT commands**
    * To install a package : **apt install packagename**
    * To remove a package: **apt remove packagename**
    * To List the package : **apt search packagename**
    * To upgarde the packaes :**apt update packagename**
+
+**File Commands**
+   * To View the files
+       * du -sk filename   It will shows the file size in kilobytes
+       * du -sh filename   It will shows the file size in MB
+       * ls -lh filename    It will shows the file size in MB
+    
+ **Archival Files Commands**
+   * The tar command is one of the most common utilities used to group multiple files
+        * tar -cf test.tar file1 file2 file3     Its used to create a tar archive
+        * tar -tf test.tar                       Its used to view the content of the tar
+        * tar -xf test.tar                       Its used to extract files
+        * tar -zcf test.tar file1 file2 file3    Its used to reduce its file size
