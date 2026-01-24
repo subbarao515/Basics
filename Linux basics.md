@@ -79,8 +79,13 @@ Linux package management tools used across various Linux distributions
    * Quit  :q
    * Save & Quit :wq
    * Quit :q!
+   * copy a line -yy
+   * delete -dd
+   * paste -p
+   * single character delete x
+   
 
-     
+
       
        
        
