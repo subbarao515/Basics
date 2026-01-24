@@ -68,3 +68,11 @@ Linux package management tools used across various Linux distributions
         * tar -tf test.tar                       Its used to view the content of the tar
         * tar -xf test.tar                       Its used to extract files
         * tar -zcf test.tar file1 file2 file3    Its used to reduce its file size
+    
+ **File Search commands**
+       * To locate file fast - locate filename.
+       * To fine the in directory  - find directorypath filename
+       * searching text within files -grep texttofind filename
+       
+       
+   
