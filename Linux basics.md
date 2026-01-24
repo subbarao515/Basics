@@ -73,6 +73,15 @@ Linux package management tools used across various Linux distributions
        * To locate file fast - locate filename.
        * To fine the in directory  - find directorypath filename
        * searching text within files -grep texttofind filename
+
+**Vi Editor Commands**
+   * Save  :w
+   * Quit  :q
+   * Save & Quit :wq
+   * Quit :q!
+
+     
+      
        
        
    
