@@ -198,6 +198,8 @@ Linux package management tools used across various Linux distributions
    * delete -dd
    * paste -p
    * single character delete x
+  
+**Networking Commands**
    
 
 
