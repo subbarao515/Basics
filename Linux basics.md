@@ -200,7 +200,11 @@ Linux package management tools used across various Linux distributions
    * single character delete x
   
 **Networking Commands**
-   
+  * Lists and modifies host interfaces : ip link
+  * Displays IP addresses              : ip addr
+  * Assigns an IP address              : Ip addr add
+  * Views the routing table            : ip route 
+  * Adds a new entry to the routing table : ip route add
 
 
       
