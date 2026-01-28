@@ -207,6 +207,14 @@ Linux package management tools used across various Linux distributions
   * Adds a new entry to the routing table : ip route add
 
 
+**SSH** 
+  * SSH **(Secure Shell**) is a widely used protocol for remotely logging into and executing commands on another computer
+     * ssh <hostname_OR_IP_Address>
+  
+**SCP**
+ * SCP (Secure Copy) is a powerful tool for transferring files and directories securely over SSH
+
+
       
        
        
