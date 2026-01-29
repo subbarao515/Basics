@@ -210,10 +210,17 @@ Linux package management tools used across various Linux distributions
 **SSH** 
   * SSH **(Secure Shell**) is a widely used protocol for remotely logging into and executing commands on another computer
      * ssh <hostname_OR_IP_Address>
+     * Passwordless SSH : ssh-keygen -t rsa
+     * Copying the Public Key to the Remote Server :
   
 **SCP**
  * SCP (Secure Copy) is a powerful tool for transferring files and directories securely over SSH
 
+**SYSTEMD**
+ * Systemd is a comprehensive system and service manager for Linux operating systems.
+ * SYSTEMD have 2 tools
+      * systemctl -Its utility for managing services on systems using systemd
+      * journalctl -Its essential troubleshooting tool for querying the systemd journal logs
 
       
        
