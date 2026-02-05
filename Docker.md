@@ -1,5 +1,9 @@
-# Docker
+# Image
+An Image is a read-only, immutable template containing the application code, libraries, and environment variables. 
+# Container
+A Container is a live, running instance of that image.
 
+# Docker
 Docker is a platform that uses **images** (read-only templates) containing instructions to create containers that can run applications.
 
 ## Docker Layers
@@ -44,7 +48,13 @@ docker rmi
 - **Bridge**: Creates an internal network within a single Docker host.
 - **Host**: Container shares the network stack of the Docker host.
 - **None**: Isolated container from other containers.
+       
+    Quick Network commands
 
+     * docker network ls 
+     * docker inspect <container id>
+     * docker network inspect bridge
+    
 ---
 
 ## Docker Volumes
